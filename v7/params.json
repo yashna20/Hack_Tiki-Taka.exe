@@ -1,0 +1,11 @@
+{
+  "switch_ha": 16,
+  "switch_live_dead": 24,
+  "clearly_better_than_v6": false,
+  "gain_vs_v6": {
+    "metrica": 0.0096,
+    "sc_controlled": 0.0129,
+    "sc_phase": -0.0137
+  },
+  "chosen_by": "mean of Metrica and SkillCorner (controlled labels) spellF1, 4-fold held-out practice test"
+}

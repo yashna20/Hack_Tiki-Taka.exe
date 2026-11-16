@@ -1,0 +1,8 @@
+{
+  "switch_ha": 12,
+  "switch_live_dead": 24,
+  "beats_v5_by_more_than_noise": true,
+  "practice_combined_spellF1_v6": 0.705,
+  "practice_combined_spellF1_v5_style": 0.6366,
+  "chosen_by": "mean of Metrica and SkillCorner spellF1, 4-fold held-out practice test"
+}

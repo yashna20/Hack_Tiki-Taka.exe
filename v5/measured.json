@@ -1,0 +1,35 @@
+{
+  "ball_missing_live": 0.1312429654725497,
+  "ball_missing_dead": 0.7489491946176197,
+  "ball_missing_graded": 0.40692572565263097,
+  "gap_percentiles_all": [
+    11,
+    152,
+    268,
+    526,
+    845
+  ],
+  "live_gap_percentiles": [
+    2,
+    4,
+    148,
+    227,
+    289
+  ],
+  "share_of_stoppages_with_ball_outside": 0.5113636363636364,
+  "metres_beyond_line_q25_q50_q75": [
+    1.0,
+    2.7,
+    5.8
+  ],
+  "share_of_visible_dead_frames_outside": 0.18894319905612675,
+  "players_tracked_per_frame": 20.487419503075092,
+  "split": "live / dead from starter/v2.py's algorithmic labels",
+  "percentiles": [
+    10,
+    25,
+    50,
+    75,
+    90
+  ]
+}

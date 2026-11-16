@@ -1,0 +1,5 @@
+{
+  "switch_ha": 12,
+  "switch_live_dead": 24,
+  "chosen_by": "mean spellF1 on the practice test (leave-one-match-out)"
+}

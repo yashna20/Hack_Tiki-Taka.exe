@@ -1,0 +1,9 @@
+{
+  "variant": "v4-style",
+  "w": 0.0,
+  "switch_ha": 12,
+  "switch_live_dead": 16,
+  "practice_spellF1": 0.7517,
+  "practice_spellF1_v4_style": 0.7517,
+  "chosen_by": "mean spellF1 on the practice test (leave-one-match-out); v2 hints kept only if they gain > 0.04"
+}
